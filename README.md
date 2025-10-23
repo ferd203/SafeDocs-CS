@@ -52,10 +52,8 @@ SafeDocs-CS/
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
-│   │   ├── pages/
 │   │   └── supabaseClient.js
 │   ├── .env.example
-│   └── docker-compose.yml
 ├── .gitignore
 └── README.md
 
